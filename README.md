@@ -1,6 +1,6 @@
 # Sunjun
 ## Experience
-*2022.07 \~*
+*2022.07 -*
 <br>
 **Samsung Software Academy For Youth (SSAFY)**
 
@@ -9,9 +9,9 @@
 <br>
 **Sungkyunkwan University (SKKU)**
 <br>
-Chinese Language&Literature
+　Chinese Language&Literature
 <br>
-Economics
+　Economics
 ## Projects
 ## Stats
 <img align='left' width='50%' src="https://github-readme-stats.vercel.app/api?username=Bluuubery&show_icons=true&theme=swift">
