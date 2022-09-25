@@ -1,13 +1,36 @@
-# Good Morning
+# Sunjun
+## Experience
+*2022.07 \~*
+<br>
+**Samsung Software Academy For Youth (SSAFY)**
 
-## Photo of Me
+## Education
+*2015.03 - 2022.02*
+<br>
+**Sungkyunkwan University (SKKU)**
+<br>
+Chinese Language&Literature
+<br>
+Economics
+## Projects
+## Stats
+<img align='left' width='50%' src="https://github-readme-stats.vercel.app/api?username=Bluuubery&show_icons=true&theme=swift">
+<br>
+<img align='center' width='35%' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=readingdesk">
 
-![코딩하는내모습](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Chimpanzee_seated_at_typewriter.jpg/660px-Chimpanzee_seated_at_typewriter.jpg)
+## Skills
+**Tech**
 
-> Me struggling on a easy peasy code
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
+**Tools**
 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-
-
-
+**Language**
+Korean, English, Chinese
+## Social
+<a href="https://bluuubery.tistory.com/">
+<img src="https://img.shields.io/badge/Tistory-white?style=flat&logo=Tistory&logoColor=000000"/></a>
+<a href="zephyr72836@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-white?style=flat&logo=Gmail&logoColor=#EA4335"/></a>
