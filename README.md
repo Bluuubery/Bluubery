@@ -32,6 +32,6 @@ Economics
 Korean, English, Chinese
 ## Social
 <a href="https://bluuubery.tistory.com/">
-<img src="https://img.shields.io/badge/Tistory-white?style=flat&logo=Tistory&logoColor=000000"/></a>
+<img src="https://img.shields.io/badge/Tistory-white?style=flat&logo=Tistory&logoColor=000000"></a>
 <a href="zephyr72836@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-white?style=flat&logo=Gmail&logoColor=#EA4335"/></a>
+<img src="https://img.shields.io/badge/Gmail-white?style=flat&logo=Gmail&logoColor=#EA4335"></a>
