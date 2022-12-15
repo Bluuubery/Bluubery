@@ -16,7 +16,9 @@
 
 ## Projects
 
-[Movie Picker: 이상형 월드컵 기능을 기반으로 개인 맞춤형 영화 추천/정보 커뮤니티 (SSAFY 1학기 관통 PJT 최우수상)](https://github.com/Bluuubery/Movie-Picker)
+[**Movie Picker**](https://github.com/Bluuubery/Movie-Picker)  
+SNS-based movie recommendation/information community site based on user's *"all-time-favorite movie"*  
+(SASFY 1st semester Best Project Award)
 
 ## Stats
 
