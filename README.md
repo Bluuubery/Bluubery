@@ -20,7 +20,7 @@
 SNS style movie recommendation/information community site based on user's *"all-time-favorite movie"*  
 (SSAFY 1st semester Best Project Award)
 
-[**Rendez-Boo**]()
+[**Rendez-Boo**]()  
 Web Socket based blind dating webservice
 
 ## Stats
