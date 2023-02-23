@@ -21,7 +21,7 @@ SNS style movie recommendation/information community site based on user's *"all-
 (SSAFY 1st semester Best Project Award)
 
 [**Rendez-Boo**]()  
-Web Socket based blind dating webservice
+WebRTC & Web Socket based blind dating webservice
 
 ## Stats
 
