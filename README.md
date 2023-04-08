@@ -17,11 +17,16 @@
 ## Projects
 
 [**Movie Picker**](https://github.com/Bluuubery/Movie-Picker)  
-SNS style movie recommendation/information community site based on user's *"all-time-favorite movie"*  
+SNS style movie recommendation/information community site based on user's *"all-time-favorite movie"*   (2022.11)
 (SSAFY 1st semester Best Project Award)
 
-[**Rendez-Boo**]()  
-WebRTC & Web Socket based blind dating webservice
+[**Rendez-Boo**](https://github.com/Bluuubery/Rendez-Boo)  
+WebRTC & Web Socket based blind dating webservice (2023.01 - 2023.02)
+
+[**Gamemakase**](https://github.com/Bluuubery/gamemakase)
+Personalized game recommendation system based on big data (2023.02 - 2023.04)
+(SSAFY 2nd semester Second Project Award)
+
 
 ## Stats
 
