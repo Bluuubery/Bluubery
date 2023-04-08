@@ -23,7 +23,7 @@ SNS style movie recommendation/information community site based on user's *"all-
 [**Rendez-Boo**](https://github.com/Bluuubery/Rendez-Boo)  
 WebRTC & Web Socket based blind dating webservice (2023.01 - 2023.02)
 
-[**Gamemakase**](https://github.com/Bluuubery/gamemakase)
+[**Gamemakase**](https://github.com/Bluuubery/gamemakase)  
 Personalized game recommendation system based on big data (2023.02 - 2023.04)   
 (SSAFY 2nd semester Second Project Award)
 
