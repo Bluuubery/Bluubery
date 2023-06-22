@@ -5,6 +5,11 @@
 <br>
 **Samsung Software Academy For Youth (SSAFY)**
 
+*2022.05 -*
+<br>
+**KB Kookmin Card**
+
+
 ## Education
 *2015.03 - 2022.02*
 <br>
