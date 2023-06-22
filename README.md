@@ -1,7 +1,7 @@
 # Sunjun
 #### Software Engineer
 ## Experience
-*2022.07 -*
+*2022.07 - 2022.05*
 <br>
 **Samsung Software Academy For Youth (SSAFY)**
 
