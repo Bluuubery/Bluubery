@@ -1,14 +1,15 @@
 # Sunjun
 #### Software Engineer
+
 ## Experience
 *2022.07 - 2022.05*
 <br>
 **Samsung Software Academy For Youth (SSAFY)**
 
+
 *2022.05 -*
 <br>
-**KB Kookmin Card**
-
+**KB Kookmin Card IT Engineer**
 
 ## Education
 *2015.03 - 2022.02*
@@ -32,6 +33,9 @@ WebRTC & Web Socket based blind dating webservice (2023.01 - 2023.02)
 Personalized game recommendation system based on big data (2023.02 - 2023.04)   
 (SSAFY 2nd semester Second Project Award)
 
+[**If I Die Tomorrow**](https://github.com/Bluuubery/If-I-die-tomorrow)  
+Well-Dying Service (2023.04 - 2023.06)   
+(SSAFY 2nd semester Final Project Award)
 
 ## Stats
 
