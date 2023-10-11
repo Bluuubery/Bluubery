@@ -9,7 +9,7 @@
 
 *2022.05 -*
 <br>
-**KB Kookmin Card IT Engineer**
+**KB Kookmin Card SW Engineer**
 
 ## Education
 *2015.03 - 2022.02*
@@ -55,12 +55,15 @@ Well-Dying Service (2023.04 - 2023.06)
 
 
 ![MySql](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=black)
+![Oracle](https://img.shields.io/badge/OracleDB-D24939.svg?style=for-the-badge&logo=Oracle&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=black)
 ![Redis](https://img.shields.io/badge/Redis-DC382D.svg?style=for-the-badge&logo=Redis&logoColor=black)
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=black)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939.svg?style=for-the-badge&logo=Jenkins&logoColor=black)
 ![Nginx](https://img.shields.io/badge/Nginx-009639.svg?style=for-the-badge&logo=Nginx&logoColor=black)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-2496ED.svg?style=for-the-badge&logo=Kubernetes&logoColor=white)
+
 
 **Tools**
 
