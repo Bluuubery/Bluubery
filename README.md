@@ -2,12 +2,12 @@
 #### Software Engineer
 
 ## Experience
-*2022.07 - 2022.05*
+*2022.07 - 2024.05*
 <br>
 **Samsung Software Academy For Youth (SSAFY)**
 
 
-*2022.05 -*
+*2024.05 -*
 <br>
 **KB Kookmin Card SW Engineer**
 
